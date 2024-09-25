@@ -23,3 +23,5 @@ Requisitos
 Python 3.x
 Autor
 Juan Pablo Restrepo Alzate
+
+https://youtu.be/L6CXx_nVNf0?feature=shared
